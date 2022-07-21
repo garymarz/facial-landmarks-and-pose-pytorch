@@ -9,7 +9,7 @@
 * download model https://drive.google.com/file/d/1LgzLHGb7qAf-sc4W6sRSHn1LP7L5WZFi/view?usp=sharing  
 * put on checkpoint/snapshot/...
 ## Clone to facial-landmarks-and-pose-pytorch
-      git clone https://github.com/garymarz/facial-landmarks-and-pose-pytorch/blob/main/README.md  
+      git clone https://github.com/garymarz/facial-landmarks-and-pose-pytorch  
       cd facial-landmarks-and-pose-pytorch
 ##  Set up environment:   
       pip install -r requirements.txt  # Install required packages
