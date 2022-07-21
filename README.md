@@ -1,4 +1,4 @@
-# facial-landmarks-and-pose-pytorch
+# facial_landmarks & pose pytorch
 
 ![image](https://github.com/garymarz/facial-landmarks-and-pose-pytorch/blob/main/Demo4.jpg)
 
