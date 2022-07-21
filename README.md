@@ -2,6 +2,9 @@
 
 ![image](https://github.com/garymarz/facial-landmarks-and-pose-pytorch/blob/main/Demo4.jpg)
 
+## Updates
+*  2022/7/21
+*  2022/7
 ## Fine-tuned Models
 * download model https://drive.google.com/file/d/1LgzLHGb7qAf-sc4W6sRSHn1LP7L5WZFi/view?usp=sharing
 ## Clone to facial-landmarks-and-pose-pytorch
