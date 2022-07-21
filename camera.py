@@ -16,7 +16,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 
 checkpoint = torch.load('checkpoint/snapshot/checkpoint_epoch.pth.tar', map_location=device)
-pfld_backbone = PFLDInference(backbone_name='RepVGG-B1g2',backbone_file='',deploy=True,pretrained=False).to(device)
+pfld_backbone = PFLDInference(backbone_file='',deploy=True,pretrained=False).to(device)
 pose_net = AuxiliaryNet().to(device)
 pfld_backbone.load_state_dict(checkpoint['pfld_backbone'])
 pose_net.load_state_dict(checkpoint['auxiliarynet'])
