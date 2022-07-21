@@ -11,8 +11,8 @@
 ## Clone to facial-landmarks-and-pose-pytorch
       git clone https://github.com/garymarz/facial-landmarks-and-pose-pytorch  
       cd facial-landmarks-and-pose-pytorch
-      pip install git+https://github.com/elliottzheng/face-detection.git@master # face detect tool
 ##  Set up environment:   
       pip install -r requirements.txt  # Install required packages
+      pip install git+https://github.com/elliottzheng/face-detection.git@master # face detect tool
 ##  Try it with camera      
       python camera.py  
