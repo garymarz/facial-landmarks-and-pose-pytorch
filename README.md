@@ -8,7 +8,7 @@
 ## Fine-tuned Models
 * download model https://drive.google.com/file/d/1LgzLHGb7qAf-sc4W6sRSHn1LP7L5WZFi/view?usp=sharing  
 
-      checkpoint/snapshot/checkpoint_epoch.pth.tar
+      .checkpoint/snapshot/checkpoint_epoch.pth.tar
 ## Clone to facial-landmarks-and-pose-pytorch
       git clone https://github.com/garymarz/facial-landmarks-and-pose-pytorch  
       cd facial-landmarks-and-pose-pytorch
