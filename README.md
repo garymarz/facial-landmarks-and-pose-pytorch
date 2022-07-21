@@ -9,7 +9,7 @@
       !git clone https://github.com/garymarz/facial-landmarks-and-pose-pytorch/blob/main/README.md  
        cd facial-landmarks-and-pose-pytorch
 ##  Set up environment:   
-      pip install -r requirements.txt  # Install required packages
+      !pip install -r requirements.txt  # Install required packages
 ##  try it with camera  
     
       !python camera.py  
