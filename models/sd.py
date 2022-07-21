@@ -45,7 +45,7 @@ class InvertedResidual(nn.Module):
         
 class PFLDInference(nn.Module):
     def __init__(self,
-                 backbone_name, backbone_file, deploy,
+                 backbone_file, deploy, backbone_name='RepVGG-B1g2'
                  bins=(1, 2, 3, 6),
                  droBatchNorm=nn.BatchNorm2d,
                  pretrained=True):
