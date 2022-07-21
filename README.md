@@ -8,6 +8,6 @@ clone to facial-landmarks-and-pose-pytorch
 
     !git clone https://github.com/garymarz/facial-landmarks-and-pose-pytorch/blob/main/README.md  
     
-3. try it with camera  
+try it with camera  
     
     !python camera.py  
